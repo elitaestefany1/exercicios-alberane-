@@ -8,9 +8,9 @@ function imprimirTabuada($numeroInteiroPositivo) {
     }
 }
 
-// Número específico para a tabuada (no caso, 4)
+
 $numeroInteiroPositivo = 4;
 
-// Chamar a função para imprimir a tabuada de multiplicação do número específico
+
 imprimirTabuada($numeroInteiroPositivo);
 
