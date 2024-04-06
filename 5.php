@@ -1,5 +1,5 @@
 <?php
-$numero = 50; // Corrigido: Adicionado ponto e vírgula no final da linha
+$numero = 50; 
 $gerador = rand(1, 100);
 
 if ($numero <= $gerador) {
